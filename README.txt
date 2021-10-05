@@ -1,11 +1,11 @@
 #############################################
 
-###    Virooo static version     ###
+###    S3WP static version     ###
 
 #############################################
 
 ### Build by MBushari77 ( Mohammed esmail albushari ) ###
 
-### with HTML-5 and CSS-3 and JS - JQuery ###
+### with Nodejs HTML-5 and CSS-3 and JS - JQuery ###
 
 #############################################
